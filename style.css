@@ -1,0 +1,17 @@
+body{
+  background-color: #edf0f5;
+}
+
+.fs-0{
+  font-size: 4rem;
+}
+.fs-7{
+  font-size: 0.8rem;
+}
+@media (main-width: 62em) {
+  footer[
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  ]
+}
